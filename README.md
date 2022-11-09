@@ -23,6 +23,14 @@ Invoke the tests vai maven with;
 > mvn test
 
 
+
+##  Swagger - Open API Support
+Swagger API support had been added via the 'springdoc-open-api' project and the Swagger API specification for this Project is available at the following URL;
+
+- http://localhost:8080/swagger-ui/index.html
+
+The application must be available.
+
 ##  POSTMAN
 Postman has been used as the REST Client and the following requests were co figured for testing the api;
 
